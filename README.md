@@ -1,18 +1,11 @@
 💫 About Me
 
 🎯 AKHIL SELVOJU
-🚀 Passionate Python Developer | Software Developer | Problem Solver
-
 🚀 Software Developer passionate about building scalable and real-world solutions.
-
 🐍 Strong in Python, Object-Oriented Programming (OOP), Data Structures, Algorithms, SQL, and Problem Solving.
-
 💻 Experienced in developing Python applications, automation scripts, and backend solutions through academic and personal projects.
-
 📚 Enthusiastic about Software Development, Web Development, APIs, AI, and emerging technologies.
-
 🌐 Built projects like Simple Password Generator, Voice Assistant, and Weather App.
-
 📈 Continuously learning, improving, and growing in technology every day.
 
 ## 🌐 Socials:

@@ -1,6 +1,6 @@
+💫 About Me
 🎯 AKHIL SELVOJU
 🚀 Passionate Python Developer | Software Developer | Problem Solver
-💫 About Me
 
 🚀 Software Developer passionate about building scalable and real-world solutions.
 

@@ -1,6 +1,18 @@
-# 💫 About Me:
-# 🎯 AKHIL SELVOJU<br><br>#📧 selvojuakhil1710@gmail.com #<br>💼 LinkedIn: your-linkedin-profile<br><br>## 💫 About Me:<br><br>🚀 Aspiring Python Developer passionate about building efficient, scalable, and real-world software solutions.<br><br>🐍 Strong in Python, Object-Oriented Programming (OOP), Data Structures, Algorithms, and Problem Solving.<br><br>💻 Experienced in developing Python applications, automation scripts, and backend solutions through academic and personal projects.<br><br>📚 Enthusiastic about Software Development, Web Development, APIs, and emerging technologies.<br><br>🌐 Built projects such as Student Management System, Expense Tracker, Automation Tools, and Python-based Applications.<br><br>📈 Continuously learning, improving, and growing as a Python Developer every day.<br><br>## 🌐 Socials:<br><br>🔗 LinkedIn<br>📧 Email<br><br>## 💻 Tech Stack:<br><br>🐍 Python<br><br>🗄️ SQL, MySQL<br><br>🌐 HTML5, CSS3<br><br>⚡ Flask, Django<br><br>🔧 Git, GitHub<br><br><br><br>💻 VS Code<br><br>## 📊 GitHub Stats:<br><br>* Python Programming<br>* Object-Oriented Programming (OOP)<br>* Data Structures & Algorithms<br>* File Handling<br>* Exception Handling<br>* API Integration<br>* Automation Scripts<br>* Problem Solving<br><br>## 📌 Pinned Projects:<br><br>🔐 Simple Password Generator<br><br>🎙️ Voice Assistant<br><br>🌦️ Weather App<br>
+🎯 AKHIL SELVOJU
+🚀 Passionate Python Developer | Software Developer | Problem Solver
+💫 About Me
 
+🚀 Software Developer passionate about building scalable and real-world solutions.
+
+🐍 Strong in Python, Object-Oriented Programming (OOP), Data Structures, Algorithms, SQL, and Problem Solving.
+
+💻 Experienced in developing Python applications, automation scripts, and backend solutions through academic and personal projects.
+
+📚 Enthusiastic about Software Development, Web Development, APIs, AI, and emerging technologies.
+
+🌐 Built projects like Simple Password Generator, Voice Assistant, and Weather App.
+
+📈 Continuously learning, improving, and growing in technology every day.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/selvoju-akhil-6a3395341) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:selvojuakhil1710@gmail.com) 

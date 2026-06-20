@@ -1,6 +1,5 @@
 💫 About Me
 
-🎯 AKHIL SELVOJU
 🚀 Software Developer passionate about building scalable and real-world solutions.
 🐍 Strong in Python, Object-Oriented Programming (OOP), Data Structures, Algorithms, SQL, and Problem Solving.
 💻 Experienced in developing Python applications, automation scripts, and backend solutions through academic and personal projects.
